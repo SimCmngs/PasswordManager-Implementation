@@ -57,6 +57,14 @@ After researching and reviewing several options I chose `BitWarden`, a password 
 ### 1️⃣ Assessment/Preparation:
 I simulated the client's desktop environment by creating a virtual machine instance using `VMware`. This allowed me to conduct a trial run of installing the Password Manager, to make sure all of its features were functioning before deploying it for the client.
 
+<details><summary>VM checklist (client's desktop environment)</summary>
+
+  - [x] OS: `Windows 10`
+  - [x] Web browser: Firefox
+  - [x] Online Accounts: AOL, Outlook, Gmail, Metro Bank
+
+</details>
+
 ---
 
 ### 2️⃣ Installation/Configuration:
@@ -109,6 +117,5 @@ Benefits for the client:
 
 ## 🎉 Conclusion:
 The client expressed satisfaction with the Password Manager solution, appreciating its ease of use and positive impact on their daily work.
-
 
 ---
