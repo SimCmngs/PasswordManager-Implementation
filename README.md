@@ -7,11 +7,11 @@
 
 ## Introduction
 
-1. When I met with the client, they expressed a constant frustration of `having to remember multiple passwords` for their online accounts and how long it would take to input their login details due to their <ins>slow typing.</ins> 
+1. When I met with the client, they expressed a constant frustration of <ins>having to remember multiple passwords</ins> for their online accounts and how long it would take to input their login details due to their <ins>slow typing.</ins> 
 
-2. They had locked themselves out of their accounts multiple times, due to `mis-entering their password`. 
+2. They had locked themselves out of their accounts multiple times, due to <ins>mis-entering their password</ins>. 
 
-3. The client was also concerned about the <ins>security risks</ins> of leaving `password hints on note files` across different devices, including their smartphones and laptop.
+3. The client was also concerned about the <ins>security risks</ins> of leaving <ins>password hints on note files</ins> across different devices, including their smartphones and laptop.
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
@@ -23,10 +23,8 @@ Challenges the client faced in managing passwords included:
 - ❌ Time-consuming and error-prone manual entering of passwords
 - ❌ Security risk of storing password hints on note files to get leaked/stolen
 
----
-
 ## 💡 Solution:
-After evaluating several options I chose BitWarden, a password manager offering:
+After evaluating several options I chose `BitWarden`, a password manager offering:
 - ✅ Centralized password storage
   - *(no need to remember passwords)*
 - ✅ Auto-fill functionality
@@ -41,13 +39,14 @@ After evaluating several options I chose BitWarden, a password manager offering:
 ## 💻 Implementation:
 
 ### 📋 Assessment/Preparation:
-Simulated the client's desktop environment by creating a virtual machine instance using VMware. This allowed me to conduct a trial run of installing the Password Manager, to make sure all of its features were functioning before deploying it for the client.
+Simulated the client's desktop environment by creating a virtual machine instance using `VMware`. This allowed me to conduct a trial run of installing the Password Manager, to make sure all of its features were functioning before deploying it for the client.
 
 ### 🔧 Installation/Configuration:
-- Installed remotely using TeamViewer and Zoom.
-- Provided timely responses to all requests and questions.
+Performed the installation remotely using both `TeamViewer` and `Zoom`. With TeamViewer, I was able to control the client's laptop and smartphone remotely, configuring settings for a more user-friendly interface.
 
-<ins>PowerShell script used to install Bitwartden:</ins>
+Because TeamViewer lacked a built-in, voice calling feature, I used Zoom instead to communcicate with the client. Providing timely responses to all of their requests and questions.
+
+`PowerShell` <ins>installing Bitwarden with Windows Package Manager `(winget)`:</ins>
 
 ```powershell
 # Check if winget is installed
@@ -86,5 +85,6 @@ Benefits for the client:
 
 ## 🎉 Conclusion:
 The client expressed satisfaction with the Password Manager solution, appreciating its ease of use and positive impact on their daily work.
+
 
 ---
