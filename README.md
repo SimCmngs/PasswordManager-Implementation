@@ -61,7 +61,7 @@ I simulated the client's desktop environment by creating a virtual machine insta
 
   - [x] OS: `Windows 10`
   - [x] Web browser: Firefox
-  - [x] Online Accounts: AOL, Outlook, Gmail, Metro Bank
+  - [x] Accounts: AOL, Outlook, Gmail, Metro Bank
 
 </details>
 
