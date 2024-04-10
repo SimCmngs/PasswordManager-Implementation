@@ -57,7 +57,7 @@ After researching and reviewing several options I chose `BitWarden`, a password 
 ### 1️⃣ Assessment/Preparation:
 I simulated the client's desktop environment by creating a virtual machine instance using `VMware`. This allowed me to conduct a trial run of installing the Password Manager, to make sure all of its features were functioning before deploying it for the client.
 
-<details><summary>VM checklist (client's desktop environment)</summary>
+<details><summary>VM checklist (mimic client's desktop environment)</summary>
 
   - [x] **OS**: `Windows 10`
   - [x] **Web Browser**: Firefox
