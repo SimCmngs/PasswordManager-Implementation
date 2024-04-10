@@ -70,7 +70,7 @@ I simulated the client's desktop environment by creating a virtual machine insta
 ### 2️⃣ Installation/Configuration:
 I then performed the installation remotely using both `TeamViewer` and `Zoom`. With TeamViewer, I was able to control the client's laptop and smartphone remotely, configuring settings for a more user-friendly experience.
 
-Because TeamViewer lacked a built-in, voice calling feature, I used Zoom instead to communcicate with the client. Providing timely responses to all of their requests and questions.
+Because TeamViewer lacked a built-in, voice calling feature, I used Zoom instead to communicate with the client. Providing timely responses to all of their requests and questions.
 
 `PowerShell` 
 
@@ -116,6 +116,6 @@ Benefits for the client:
 ---
 
 ## 🎉 Conclusion:
-The client expressed satisfaction with the Password Manager solution, appreciating its ease of use and positive impact on their daily work.
+The client expressed their satisfaction with the Password Manager solution, appreciating its ease of use and positive impact on their daily work.
 
 ---
