@@ -59,9 +59,9 @@ I simulated the client's desktop environment by creating a virtual machine insta
 
 <details><summary>VM checklist (client's desktop environment)</summary>
 
-  - [x] OS: `Windows 10`
-  - [x] Web browser: Firefox
-  - [x] Accounts: AOL, Outlook, Gmail, Metro Bank
+  - [x] **OS**: `Windows 10`
+  - [x] **Web Browser**: Firefox
+  - [x] **Accounts**: AOL, Outlook, Gmail, Metro Bank
 
 </details>
 
