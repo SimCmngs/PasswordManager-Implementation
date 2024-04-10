@@ -12,7 +12,7 @@ streamlining their login process.
 - **Scripting:** `PowerShell`
 - **Remote Desktop Support:** `TeamViewer`
 - **Video Conferencing:** `Zoom`
-- **Documentation:** `AI Tutorial Builder`/`Video Editor` *(VegasPro/CapCut)*, `Word`, `Notepad`
+- **Documentation:** `AI Tutorial Builder`/`Video Editor` *(VegasPro/CapCut)*
 - **Security:** Password Manager `(Bitwarden)` - *256-bit AES encryption*
 
 ---
