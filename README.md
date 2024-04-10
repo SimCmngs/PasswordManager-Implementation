@@ -1,17 +1,32 @@
-# Implementing a Password Management System Across All Devices - (Voluntary Exp.)
+# Implementing a Password Management System - Across Client's Devices
+
+This was a project I completed during my voluntary experience providing tech support for elderly users. This project aimed to install a password manager across a client's devices, enhancing their security and 
+streamlining their workflow.
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+## 🛠 Tools & Technologies:
+
+- **System:** `Windows 10/11`
+- **Virtualization:** `VMware`
+- **Scripting:** `PowerShell`
+- **Remote Desktop Support:** `TeamViewer`
+- **Video Conferencing:** `Zoom`
+- **Documentation:** `AI Tutorial Builder`/`Video Editor` *(VegasPro/CapCut)*, `Word`, `Notepad`
+- **Security:** Password Manager `(Bitwarden)` - *256-bit AES encryption*
+
+# Introduction
+
+When I met with the client, they expressed a constant frustration of <ins>having to remember multiple passwords</ins> for their online accounts and how long it would take to input their login details due to their <ins>slow typing.</ins> 
+
+They had locked themselves out of their accounts multiple times, due to <ins>mis-entering their password</ins>. 
+
+The client was also concerned about the <ins>security risks</ins> of leaving <ins>password hints on note files</ins> across different devices, including their smartphones and laptop.
 
 ### 👤 Client Background:
 - The client is an elderly person with limited technical experience, running an independent paralegal business.
 - They're looking to integrate digital tools into their existing workflow, with password management being a key concern.
 - Frustrations include remembering multiple passwords and security risks of storing them insecurely.
-
-## Introduction
-
-1. When I met with the client, they expressed a constant frustration of <ins>having to remember multiple passwords</ins> for their online accounts and how long it would take to input their login details due to their <ins>slow typing.</ins> 
-
-2. They had locked themselves out of their accounts multiple times, due to <ins>mis-entering their password</ins>. 
-
-3. The client was also concerned about the <ins>security risks</ins> of leaving <ins>password hints on note files</ins> across different devices, including their smartphones and laptop.
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
@@ -36,17 +51,19 @@ After evaluating several options I chose `BitWarden`, a password manager offerin
 
 ---
 
-## 💻 Implementation:
+# 💻 Implementation:
 
 ### 📋 Assessment/Preparation:
 Simulated the client's desktop environment by creating a virtual machine instance using `VMware`. This allowed me to conduct a trial run of installing the Password Manager, to make sure all of its features were functioning before deploying it for the client.
+
+---
 
 ### 🔧 Installation/Configuration:
 Performed the installation remotely using both `TeamViewer` and `Zoom`. With TeamViewer, I was able to control the client's laptop and smartphone remotely, configuring settings for a more user-friendly interface.
 
 Because TeamViewer lacked a built-in, voice calling feature, I used Zoom instead to communcicate with the client. Providing timely responses to all of their requests and questions.
 
-`PowerShell` <ins>installing Bitwarden with Windows Package Manager `(winget)`:</ins>
+`PowerShell` <ins>installing Bitwarden using Windows Package Manager</ins> `(winget)`:
 
 ```powershell
 # Check if winget is installed
@@ -66,6 +83,7 @@ winget install Bitwarden.Bitwarden -e
 Write-Host "Bitwarden installed successfully."
 
 ```
+---
 
 ### 🎓 Training:
 - Created a video tutorial using AI Step Recorder.
