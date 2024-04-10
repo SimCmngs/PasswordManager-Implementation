@@ -7,9 +7,11 @@
 
 ## Introduction
 
-When I met with the client, they expressed a constant `frustration of having to remember multiple passwords` for their online accounts and how long it would take to input their login details due to their <ins>slow typing.</ins> They had locked themselves out of their accounts multiple times, due to `mis-entering their password.`
+When I met with the client, they expressed a constant frustration of `having to remember multiple passwords` for their online accounts and how long it would take to input their login details due to their <ins>slow typing.</ins> 
 
-The client was also concerned about the <ins>security risks</ins> of `leaving passowrd hints on note files across different devices,` including their smartphones and laptop.
+They had locked themselves out of their accounts multiple times, due to `mis-entering their password`.
+
+The client was also concerned about the <ins>security risks</ins> of leaving `password hints on note files` across different devices, including their smartphones and laptop.
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
