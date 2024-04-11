@@ -99,7 +99,7 @@ I simulated the client's desktop environment by creating a virtual machine insta
   - [x] **Vault timeout**: "On restart" *(Settings > Security)*
   - [x] **Vault timeout action**: "Lock" *(Settings > Security)*
   - [x] **Enabl**e "Unlock with PIN code" *(Settings > Security)*
-  - [x] **Disbale** "Lock with Master PW when app is restarted *(Settings > Security)*
+  - [x] **Disable** "Lock with Master PW when app is restarted *(Settings > Security)*
 
   OTHER
   - [x] **Clear clipboard**: "20 seconds" *(Settings > General)*
