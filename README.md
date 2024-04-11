@@ -95,7 +95,7 @@ Write-Host "Bitwarden installed successfully."
 
 ```
 > [!NOTE]
-> This script automates the downloading and silent installation of Bitwarden, reducing the manual effort needed to search for and run the installer.
+> This script automates the downloading and silent installation of Bitwarden, reducing the manual effort and time needed to search for and run the installer.
 
 ---
 
