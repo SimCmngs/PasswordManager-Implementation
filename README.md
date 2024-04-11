@@ -59,16 +59,77 @@ I simulated the client's desktop environment by creating a virtual machine insta
 
 <details><summary>VM checklist (mimic client's desktop environment)</summary>
 
-  - [x] **OS**: `Windows 10`
+  - [x] **OS**: `Windows 10` 
+  - [x] **Hardware Specs**: CPU: *2 cores* | RAM: *8GB (8192)* | HDD1: *256GB*
   - [x] **Web Browser**: Firefox
   - [x] **Accounts**: AOL Mail, Outlook, Gmail, PayPal, Metro Bank
+
+</details>
+
+<ins>**Adjust Settings for each Platform**</ins>
+
+<details><summary>Desktop Settings - checklist</summary>
+
+  SECURITY
+  - [x] **Vault timeout**: "On restart" *(Settings > Security)*
+  - [x] **Vault timeout action**: "Lock" *(Settings > Security)*
+  - [x] **Enable** "Unlock with PIN" *(Settings > Security)*
+  - [x] **Unlock with Master PW when app is restarted**: "No" *(Settings > Security)*
+
+  PREFERENCES
+  - [x] **Clear clipboard**: "20 seconds" *(Settings > Preferences)*
+
+  APP SETTINGS
+  - [x] **Theme**: "Dark" *(Settings > App Settings)*  
+
+</details>
+
+<details><summary>Web Browser Settings - checklist</summary>
+
+  MANAGE
+  - [x] **Show auto-fill menu on form fields**: "When field is selected on focus" *(Settings > Auto-fill)* 
+  - [x] **Enable** "Auto-fill on page load" *(Settings > Auto-fill)*
+  - [x] **Default URI match detecion**: Base domain *(Settings > Auto-fill)* 
+
+  SECURITY
+  - [x] **Vault timeout**: "On restart" *(Settings > Security)*
+  - [x] **Vault timeout action**: "Lock" *(Settings > Security)*
+  - [x] **Enabl**e "Unlock with PIN code" *(Settings > Security)*
+  - [x] **Disbale** "Lock with Master PW when app is restarted *(Settings > Security)*
+
+  OTHER
+  - [x] **Clear clipboard**: "20 seconds" *(Settings > General)*
+  - [x] **Theme**: "Dark" *(Settings > Display)*  
+
+</details>
+
+<details><summary>Android Mobile Settings - checklist</summary>
+
+  `ANDROID OS`
+  
+  UNLOCK OPTIONS
+  - [x] **Enable** "unlock with PIN code" *(Settings > Account Security)*
+  - [x] **Unlock with Master PW when app is restarted**: "No" *(Settings > Account Security)*
+
+  SESSION TIMEOUT
+  - [x] **Session timeout**: "1 min" *(Settings > Account Security)*
+  - [x] **Session timeout action**: "Lock" *(Settings > Account Security)*
+
+  AUTO-FILL
+  - [x] **Enable** "auto-fill services" *(Settings > Autofill)*
+  - [x] **Enable** "use inline autofill" *(Settings > Autofill)*
+  - [x] **Enable** "use accessibility" *(Settings > Autofill)*
+  - [x] **Enable** "use draw over" *(Settings > Autofill)*
+
+  APPEARANCE
+  - [x] **Theme**: "Dark" *(Settings > Apperance)*
 
 </details>
 
 ---
 
 ### 2️⃣ Installation/Configuration:
-I then performed the installation remotely using both `TeamViewer` and `Zoom`. With TeamViewer, I was able to control the client's laptop and smartphone remotely, configuring settings for a more user-friendly experience.
+I then performed the installation remotely using both `TeamViewer` and `Zoom`. With TeamViewer, I was able to control the client's laptop and `Android` smartphone remotely, configuring settings for a more user-friendly experience.
 
 Because TeamViewer lacked a built-in, voice calling feature, I used Zoom instead to communicate with the client. Providing timely responses to all of their requests and questions.
 
