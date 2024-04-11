@@ -70,6 +70,8 @@ I simulated the client's desktop environment by creating a virtual machine insta
 
 <details><summary>Desktop Settings - checklist</summary>
 
+  `Windows 10`
+  
   SECURITY
   - [x] **Vault timeout**: "On restart" *(Settings > Security)*
   - [x] **Vault timeout action**: "Lock" *(Settings > Security)*
@@ -86,6 +88,8 @@ I simulated the client's desktop environment by creating a virtual machine insta
 
 <details><summary>Web Browser Settings - checklist</summary>
 
+  `Firefox`
+  
   MANAGE
   - [x] **Show auto-fill menu on form fields**: "When field is selected on focus" *(Settings > Auto-fill)* 
   - [x] **Enable** "Auto-fill on page load" *(Settings > Auto-fill)*
