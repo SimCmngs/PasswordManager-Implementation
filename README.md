@@ -130,12 +130,15 @@ I simulated the client's desktop environment by creating a virtual machine insta
 
 </details>
 
+> [!IMPORTANT]
+> **Drop-down sections above** (^) - expand for more info.
+
 ---
 
 ### 2️⃣ Installation/Configuration:
 I then performed the installation remotely using both `TeamViewer` and `Zoom`. With TeamViewer, I was able to control the client's laptop and `Android` smartphone remotely, configuring settings for a more user-friendly experience.
 
-Because TeamViewer lacked a built-in, voice calling feature, I used Zoom instead to communicate with the client. Providing timely responses to all of their requests and questions.
+Because TeamViewer lacked a built-in, voice calling feature, I used Zoom instead to communicate with the client. Providing timely responses to their requests and questions.
 
 `PowerShell` 
 
