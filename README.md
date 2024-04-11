@@ -161,8 +161,9 @@ Write-Host "Bitwarden installed successfully."
 ---
 
 ### 3️⃣ Training:
-- Created a video tutorial using AI Step Recorder.
-- Included voice narration, subtitles, and timestamps.
+During the training session, the client was concerned they wouldn't remember how to use the Password Manager, so I offered to create a video tutorial to serve as a reference, in case they ever forgot the correct action steps and needed reminding.  
+
+To produce the Video Tutorial, I used an `AI Step Recorder` to capture my mouse movements and automate the screen recording and annotation process, demonstrating how to use the Password Manager. I produced the final video, using a `Video Editor` to include voice narration, subtitles and timestamps.
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
@@ -170,9 +171,14 @@ Write-Host "Bitwarden installed successfully."
 
 ## 📊 Results:
 Benefits for the client:
-- 👍 Enhanced workflow and ease-of-use 
-- 👍 Improved security 
-- 👍 Increased self-reliance 
+- 🚀 **Enhanced workflow and ease-of-use**
+    - *(The password manager's autofill feature, will streamline the login process, saving the client time and reducing frustration)*.
+    
+- 🔒 **Improved security**
+    - *(A centralised and synchronized password vault, will make it safer to access passwords accross different devices)*.
+    
+- 🧠 **Increased self-reliance**
+    - *(A video tutorial, will enable the client to troubleshoot issues on their own, reducing the reliance on external support and minimizing disruptions to their work)*.
 
 ---
 
