@@ -57,7 +57,7 @@ After researching and reviewing several options I chose `BitWarden`, a password 
 ### 1️⃣ Assessment/Preparation:
 I simulated the client's desktop environment by creating a virtual machine instance using `VMware`. This allowed me to conduct a trial run of installing the Password Manager, to make sure all of its features were functioning before deploying it for the client.
 
-[i.] <ins>**Mimic Client's desktop environment**</ins>
+[i.] <ins>**Mimic *Client's* desktop environment**</ins>
 
 <details><summary>VM checklist</summary>
 
@@ -68,7 +68,7 @@ I simulated the client's desktop environment by creating a virtual machine insta
 
 </details>
 
-[ii.] <ins>**Adjust Settings for each Platform**</ins>
+[ii.] <ins>**Adjust *Bitwarden* Settings for each Platform**</ins>
 
 <details><summary>Desktop Settings - checklist</summary>
 
@@ -181,13 +181,13 @@ To produce the Video Tutorial, I used an `AI Step Recorder` to capture my mouse 
 ## 📊 Results:
 Benefits for the client:
 - 🚀 **Enhanced workflow and ease-of-use**
-    - *(The password manager's autofill feature, will streamline the login process, saving the client time and reducing frustration)*.
+    - *(The password manager's autofill feature, will streamline the login process, <ins>saving the client time</ins> and <ins>reducing frustration</ins>)*.
     
 - 🔒 **Improved security**
-    - *(A centralised and synchronized password vault, will make it safer to access passwords accross different devices)*.
+    - *(A centralised and synchronized password vault, will make it <ins>safer to access passwords accross different devices</ins>)*.
     
 - 🧠 **Increased self-reliance**
-    - *(A video tutorial, will enable the client to troubleshoot issues on their own, reducing the reliance on external support and minimizing disruptions to their work)*.
+    - *(A video tutorial, will enable the client to troubleshoot issues on their own, <ins>reducing the reliance on external support</ins> and <ins>minimizing disruptions to their work</ins>)*.
 
 ---
 
