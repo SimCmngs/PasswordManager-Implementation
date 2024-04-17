@@ -55,7 +55,7 @@ After researching and reviewing several options I chose `BitWarden`, a password 
 # 💻 Implementation:
 
 ### 1️⃣ Assessment/Preparation:
-I simulated the client's desktop environment by creating a virtual machine instance using `VMware`. This allowed me to conduct a trial run of installing the Password Manager, to make sure all of its features were functioning before deploying it for the client.
+I simulated the client's desktop environment by creating a virtual machine instance using `VMware`. This allowed me to do a trial run of installing the Password Manager, to make sure all of its features were functioning before deploying it for the client.
 
 [i.] <ins>**Mimic *Client's* desktop environment**</ins>
 
