@@ -55,9 +55,9 @@ After researching and reviewing several options I chose `BitWarden`, a password 
 # 💻 Implementation:
 
 ### 1️⃣ Assessment/Preparation:
-I simulated the client's desktop environment by creating a virtual machine instance using `VMware`. This allowed me to do a trial run of installing the Password Manager, to make sure all of its features were functioning before deploying it for the client.
+I simulated the client's desktop environment by creating a virtual machine instance using `VMware`. So I could do a trial run of installing the Password Manager, to make sure all of its features were functioning before deploying it for the client.
 
-[i.] <ins>**Mimic *Client's* desktop environment**</ins>
+> [i.] <ins>**Mimic *Client's* desktop environment**</ins>
 
 <details><summary>VM checklist</summary>
 
@@ -68,7 +68,7 @@ I simulated the client's desktop environment by creating a virtual machine insta
 
 </details>
 
-[ii.] <ins>**Adjust *Bitwarden* Settings for each Platform**</ins>
+> [ii.] <ins>**Adjust *Bitwarden* Settings for each Platform**</ins>
 
 <details><summary>Desktop Settings - checklist</summary>
 
@@ -138,13 +138,13 @@ I simulated the client's desktop environment by creating a virtual machine insta
 ---
 
 ### 2️⃣ Installation/Configuration:
-I then performed the installation remotely using both `TeamViewer` and `Zoom`. With TeamViewer, I was able to control the client's laptop and `Android` smartphone remotely, configuring settings for a more user-friendly experience.
+I then performed the installation remotely using both `TeamViewer` and `Zoom`. With TeamViewer, I could control the client's laptop and `Android` smartphone remotely, configuring settings for a more user-friendly experience.
 
 Because TeamViewer lacked a built-in, voice calling feature, I used Zoom instead to communicate with the client. Providing timely responses to their requests and questions.
 
-`PowerShell` 
+`PowerShell` -script
 
-<ins>Installing **Bitwarden** with *Windows Package Manager*</ins>: `winget`
+Installing **Bitwarden** with <ins>*Windows Package Manager*</ins>: `winget`
 
 ```powershell
 # Check if winget is installed
@@ -172,7 +172,7 @@ Write-Host "Bitwarden installed successfully."
 ### 3️⃣ Training:
 During the training session, the client was concerned they wouldn't remember how to use the Password Manager, so I offered to create a video tutorial to serve as a reference, in case they ever forgot the correct action steps and needed reminding.  
 
-To produce the Video Tutorial, I used an `AI Step Recorder` to capture my mouse movements and automate the screen recording and annotation process, demonstrating how to use the Password Manager. I produced the final video, using a `Video Editor` to include voice narration, subtitles and timestamps.
+To produce the Tutorial, I used an `AI Step Recorder` to capture my mouse movements and automate the screen recording and annotation process, demonstrating how to use the Password Manager. I produced the final video, using a `Video Editor` to include voice narration, subtitles and timestamps.
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
