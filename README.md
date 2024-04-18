@@ -3,7 +3,7 @@
 This was a project I completed during my voluntary experience providing tech support for elderly users. This project aims to install a password manager across a client's devices, enhancing security and 
 streamlining their login process.
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Diagram](IMG_PWManager-Diagram.png)
 
 ## 🛠 Tools & Technologies:
 
