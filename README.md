@@ -138,7 +138,7 @@ I simulated the client's desktop environment by creating a virtual machine insta
 ---
 
 ### 2️⃣ Installation/Configuration:
-I then performed the installation remotely using both `TeamViewer` and `Zoom`. With TeamViewer, I could control the client's laptop and `Android` smartphone remotely, configuring settings for a more user-friendly experience.
+I then performed the installation remotely using both `TeamViewer` and `Zoom`. With TeamViewer, I could control the client's laptop and `Android` smartphone, configuring settings for a more user-friendly experience.
 
 Because TeamViewer lacked a built-in, voice calling feature, I used Zoom instead to communicate with the client. Providing timely responses to their requests and questions.
 
