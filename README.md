@@ -1,7 +1,6 @@
 # Implementing a Password Management System - Across Client's Devices
 
-This was a project I completed during my voluntary experience providing tech support for elderly users. This project aims to install a password manager across a client's devices, enhancing security and 
-streamlining their login process.
+This project was completed during my voluntary experience, providing tech support for local community members. Aims to install a password manager across the user's devices, to enhance security and streamline the login process.
 
 ![Diagram](IMG_PWManager-Diagram.png)
 
