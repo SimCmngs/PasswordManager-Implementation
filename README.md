@@ -29,7 +29,7 @@ The client was also concerned about the <ins>security risks</ins> of leaving <in
 - They're looking to integrate digital tools into their existing workflow, with password management being a key concern.
 - Frustrations include remembering multiple passwords and security risks of storing them insecurely.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="IMG_AccountLockOut.png" width="30%" height="30%" />
 
 
 ## ⛔ Problem Statement:
@@ -47,7 +47,7 @@ After researching and reviewing several options I chose `BitWarden`, a password 
 - ✅ Cross-platform compatibility
   - *(for web browser/smartphone/laptop - no longer needs to store hints across devices)*   
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="IMG_Bitwarden-Solution.png" width="40%" height="40%" />
 
 ---
 
@@ -173,7 +173,11 @@ During the training session, the client was concerned they wouldn't remember how
 
 To produce the Tutorial, I used an `AI Step Recorder` to capture my mouse movements and automate the screen recording and annotation process, demonstrating how to use the Password Manager. I produced the final video, using a `Video Editor` to include AI-voice narration, subtitles and timestamps.
 
+<details><summary>VIDEO TUTORIAL - How To Use Password Manager</summary>
+
 https://github.com/SimCmngs/PasswordManager-Implementation/assets/166608651/32d3e867-2d92-425e-a8d8-5d5abaf0a54e
+
+</details>
 
 ---
 
