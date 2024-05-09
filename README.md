@@ -29,7 +29,7 @@ The client was also concerned about the <ins>security risks</ins> of leaving <in
 - They're looking to integrate digital tools into their existing workflow, with password management being a key concern.
 - Frustrations include remembering multiple passwords and security risks of storing them insecurely.
 
-<img src="IMG_AccountLockOut.png" width="30%" height="30%" />
+<img src="IMG_AccountLockOut.png" width="40%" height="40%" />
 
 
 ## ⛔ Problem Statement:
