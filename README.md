@@ -1,4 +1,4 @@
-# Implementing a Password Management System - Across Client's Devices
+# Implementing a Password Manager Across Client Devices (Remote Support)
 
 This project was completed during my voluntary experience, providing tech support for local community members. Aims to install a **password manager** across the user's devices, to enhance security and streamline the login process.
 
