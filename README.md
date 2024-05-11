@@ -31,6 +31,7 @@ The client was also concerned about the <ins>security risks</ins> of leaving <in
 
 <img src="IMG_AccountLockOut.png" width="40%" height="40%" />
 
+---
 
 ## ⛔ Problem Statement:
 Challenges the client faced in managing passwords included:
@@ -58,7 +59,7 @@ After researching and reviewing several options I chose `BitWarden`, a password 
 
 - Conducted a trial run of installing the Password Manager, to make sure all of its features were functioning before deploying it for the client.
 
-> [i.] <ins>** *Client's* desktop environment**</ins>
+> <ins>**Client's desktop environment**</ins>
 
 <details><summary>VM checklist</summary>
 
@@ -69,7 +70,7 @@ After researching and reviewing several options I chose `BitWarden`, a password 
 
 </details>
 
-> [ii.] <ins>**Adjust *Bitwarden* Settings for each Platform**</ins>
+> <ins>**Adjust *Bitwarden* Settings for each Platform**</ins>
 
 <details><summary>Desktop Settings - checklist</summary>
 
@@ -132,6 +133,8 @@ After researching and reviewing several options I chose `BitWarden`, a password 
   - [x] **Theme**: "Dark" *(Settings > Apperance)*
 
 </details>
+
+---
 
 > [!IMPORTANT]
 > **Drop-down sections above** (^) - expand for more info.
