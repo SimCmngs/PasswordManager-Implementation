@@ -54,9 +54,11 @@ After researching and reviewing several options I chose `BitWarden`, a password 
 # 💻 Implementation:
 
 ### 1️⃣ Assessment/Preparation:
-I simulated the client's desktop environment by creating a virtual machine instance using `VMware`. So I could do a trial run of installing the Password Manager, to make sure all of its features were functioning before deploying it for the client.
+- Simulated the client's desktop environment by creating a virtual machine instance using `VMware`. 
 
-> [i.] <ins>**Mimic *Client's* desktop environment**</ins>
+- Conducted a trial run of installing the Password Manager, to make sure all of its features were functioning before deploying it for the client.
+
+> [i.] <ins>** *Client's* desktop environment**</ins>
 
 <details><summary>VM checklist</summary>
 
@@ -137,9 +139,11 @@ I simulated the client's desktop environment by creating a virtual machine insta
 ---
 
 ### 2️⃣ Installation/Configuration:
-I then performed the installation remotely using both `TeamViewer` and `Zoom`. With TeamViewer, I could control the client's laptop and `Android` smartphone, configuring settings for a more user-friendly experience.
+- Performed the installation remotely, using both `TeamViewer` and `Zoom`.
 
-Because TeamViewer lacked a built-in, voice calling feature, I used Zoom instead to communicate with the client. Providing timely responses to their requests and questions.
+- This allowed for full control of the client's laptop and `Android` smartphone, configuring settings for a more user-friendly experience.
+
+- Because TeamViewer lacked a built-in, voice calling feature, I used Zoom instead to communicate with the client. Providing timely responses to their requests and questions.
 
 `PowerShell` -script
 
@@ -171,7 +175,7 @@ Write-Host "Bitwarden installed successfully."
 ### 3️⃣ Training:
 During the training session, the client was concerned they wouldn't remember how to use the Password Manager, so I offered to create a video tutorial to serve as a reference, in case they ever forgot the correct action steps and needed reminding.  
 
-To produce the Tutorial, I used an `AI Step Recorder` to capture my mouse movements and automate the screen recording and annotation process, demonstrating how to use the Password Manager. I produced the final video, using a `Video Editor` to include AI-voice narration, subtitles and timestamps.
+To produce the Tutorial, I used an `AI Step Recorder` to capture my mouse movements and automate the screen recording and annotation process, demonstrating how to use the Password Manager. The final video was produced using a `Video Editor` , to include AI-voice narration, subtitles and timestamps.
 
 <details><summary>VIDEO TUTORIAL - How To Use Password Manager</summary>
 
