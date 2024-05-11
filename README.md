@@ -59,7 +59,7 @@ After researching and reviewing several options I chose `BitWarden`, a password 
 
 - Conducted a trial run of installing the Password Manager, to make sure all of its features were functioning before deploying it for the client.
 
-> <ins>**Client's desktop environment**</ins>
+> <ins>**Client's** desktop environment</ins>
 
 <details><summary>VM checklist</summary>
 
@@ -70,7 +70,7 @@ After researching and reviewing several options I chose `BitWarden`, a password 
 
 </details>
 
-> <ins>**Adjust *Bitwarden* Settings for each Platform**</ins>
+> <ins> **Adjust Bitwarden Settings** for each Platform</ins> 
 
 <details><summary>Desktop Settings - checklist</summary>
 
