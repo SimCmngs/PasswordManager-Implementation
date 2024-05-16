@@ -1,4 +1,4 @@
-#Install Winget | Bitwarden
+#Install Bitwarden | Winget
 #Author: Sim Cmngs
 
 # Check if winget is installed
