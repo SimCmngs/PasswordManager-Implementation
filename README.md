@@ -142,7 +142,7 @@ After researching and reviewing several options I chose `BitWarden`, a password 
 ---
 
 ### 2️⃣ Installation/Configuration:
-- Performed the installation remotely, using both `TeamViewer` and `Zoom`.
+- Performed the installation remotely, using `TeamViewer` and `Zoom`.
 
 - This allowed for full control of the client's laptop and `Android` smartphone, configuring settings for a more user-friendly experience.
 
