@@ -18,11 +18,11 @@ This project was completed during my voluntary experience, providing remote tech
 
 # Introduction
 
-When I met with the client, they expressed a constant frustration of <ins>having to remember multiple passwords</ins> for their online accounts and how long it would take to input their login details due to their <ins>slow typing.</ins> 
+The client expressed a constant frustration of <ins>having to remember multiple passwords</ins> for their online accounts and how long it would take to input their login details due to their <ins>slow typing.</ins> 
 
 They had locked themselves out of their account multiple times, due to <ins>mis-entering their password</ins>. 
 
-The client was also concerned about the <ins>security risks</ins> of leaving <ins>password hints on note files</ins> across different devices, including their smartphones and laptop.
+They were also concerned about the <ins>security risks</ins> of leaving <ins>password hints on note files</ins> across different devices, including their smartphones and laptop.
 
 ### 👤 Client Background:
 - The client is an elderly person with limited technical experience, running an independent paralegal business.
@@ -180,11 +180,7 @@ During the training session, the client was concerned they wouldn't remember how
 
 To produce the Tutorial, I used an `AI Step Recorder` to capture my mouse movements and automate the screen recording and annotation process, demonstrating how to use the Password Manager. The final video was produced using a `Video Editor` , to include AI-voice narration, subtitles and timestamps.
 
-<details><summary>VIDEO TUTORIAL - How To Use Password Manager</summary>
-
 https://github.com/SimCmngs/PasswordManager-Implementation/assets/166608651/32d3e867-2d92-425e-a8d8-5d5abaf0a54e
-
-</details>
 
 ---
 
