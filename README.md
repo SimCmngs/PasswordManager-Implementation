@@ -2,7 +2,7 @@
 
 This project was completed during my voluntary experience, providing remote tech-support for community members. Aims to install a **password manager** across the user's devices, to enhance security and streamline the login process.
 
-![Diagram](IMG_PWManager-Diagram.png)
+![Diagram](images/IMG_PWManager-Diagram.png)
 
 ## 🛠 Tools & Technologies:
 
@@ -29,7 +29,7 @@ They were also concerned about the <ins>security risks</ins> of leaving <ins>pas
 - They're looking to integrate digital tools into their existing workflow, with password management being a key concern.
 - Frustrations include remembering multiple passwords and security risks of storing them insecurely.
 
-<img src="IMG_AccountLockOut.png" width="40%" height="40%" />
+<img src="images/IMG_AccountLockOut.png" width="40%" height="40%" />
 
 ---
 
@@ -48,7 +48,7 @@ After researching and reviewing several options I chose `BitWarden`, a password 
 - ✅ Cross-platform compatibility
   - *(for web browser/smartphone/laptop - no longer needs to store hints across devices)*   
 
-<img src="IMG_Bitwarden-Solution.png" width="40%" height="40%" />
+<img src="images/IMG_Bitwarden-Solution.png" width="40%" height="40%" />
 
 ---
 
