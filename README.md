@@ -182,8 +182,6 @@ To produce the Tutorial, I used an `AI Step Recorder` to capture my mouse moveme
 
 https://github.com/SimCmngs/PasswordManager-Implementation/assets/166608651/6bce557b-d351-4856-8047-1574502c86fe
 
-[![Watch the video](https://img.youtube.com/vi/6g3I2nGUg50/0.jpg)](https://dl.dropboxusercontent.com/scl/fi/1j91pxnjnish0j7g9inz5/HowToUsePassworManager.mp4?rlkey=1hk482jdyacf8kfau0x4mfnrx&st=a0v4c7e9&dl=0)
-
 ---
 
 ## 📊 Results:
