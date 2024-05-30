@@ -182,14 +182,11 @@ To produce the Tutorial, I used an `AI Step Recorder` to capture my mouse moveme
 
 https://github.com/SimCmngs/PasswordManager-Implementation/assets/166608651/32d3e867-2d92-425e-a8d8-5d5abaf0a54e
 
-<video width="640" height="360" controls>
-  <source src="https://dl.dropboxusercontent.com/scl/fi/1j91pxnjnish0j7g9inz5/HowToUsePassworManager.mp4?rlkey=1hk482jdyacf8kfau0x4mfnrx&st=a0v4c7e9&dl=0" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-<a href="https://www.dropbox.com/scl/fi/1j91pxnjnish0j7g9inz5/HowToUsePassworManager.mp4?rlkey=1hk482jdyacf8kfau0x4mfnrx&st=a0v4c7e9&dl=0" target="_blank">Watch the video</a>
 
 [Watch the video](https://dl.dropboxusercontent.com/scl/fi/1j91pxnjnish0j7g9inz5/HowToUsePassworManager.mp4?rlkey=1hk482jdyacf8kfau0x4mfnrx&st=a0v4c7e9&dl=0)
+
+<a href="https://dl.dropboxusercontent.com/scl/fi/1j91pxnjnish0j7g9inz5/HowToUsePassworManager.mp4?rlkey=1hk482jdyacf8kfau0x4mfnrx&st=a0v4c7e9&dl=0" target="_blank">Watch the video</a>
 
 ---
 
