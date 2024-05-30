@@ -97,12 +97,12 @@ After researching and reviewing several options I chose `BitWarden`, a password 
   MANAGE
   - [x] **Show auto-fill menu on form fields**: "When field is selected on focus" *(Settings > Auto-fill)* 
   - [x] **Enable** "Auto-fill on page load" *(Settings > Auto-fill)*
-  - [x] **Default URI match detecion**: Base domain *(Settings > Auto-fill)* 
+  - [x] **Default URI match detection**: Base domain *(Settings > Auto-fill)* 
 
   SECURITY
   - [x] **Vault timeout**: "On restart" *(Settings > Security)*
   - [x] **Vault timeout action**: "Lock" *(Settings > Security)*
-  - [x] **Enabl**e "Unlock with PIN code" *(Settings > Security)*
+  - [x] **Enable** "Unlock with PIN code" *(Settings > Security)*
   - [x] **Disable** "Lock with Master PW when app is restarted *(Settings > Security)*
 
   OTHER
@@ -130,7 +130,7 @@ After researching and reviewing several options I chose `BitWarden`, a password 
   - [x] **Enable** "use draw over" *(Settings > Autofill)*
 
   APPEARANCE
-  - [x] **Theme**: "Dark" *(Settings > Apperance)*
+  - [x] **Theme**: "Dark" *(Settings > Appearance)*
 
 </details>
 
@@ -190,7 +190,7 @@ Benefits for the client:
     - *(The password manager's autofill feature, will streamline the login process, <ins>saving the client time</ins> and <ins>reducing frustration</ins>)*.
     
 - 🔒 **Improved security**
-    - *(A centralised and synchronized password vault, will make it <ins>safer to access passwords accross different devices</ins>)*.
+    - *(A centralised and synchronized password vault, will make it <ins>safer to access passwords across different devices</ins>)*.
     
 - 🧠 **Increased self-reliance**
     - *(A video tutorial, will enable the client to troubleshoot issues on their own, <ins>reducing the reliance on external support</ins> and <ins>minimizing disruptions to their work</ins>)*.
