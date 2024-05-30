@@ -182,18 +182,6 @@ To produce the Tutorial, I used an `AI Step Recorder` to capture my mouse moveme
 
 https://github.com/SimCmngs/PasswordManager-Implementation/assets/166608651/32d3e867-2d92-425e-a8d8-5d5abaf0a54e
 
-
-
-[Watch the video](https://dl.dropboxusercontent.com/scl/fi/1j91pxnjnish0j7g9inz5/HowToUsePassworManager.mp4?rlkey=1hk482jdyacf8kfau0x4mfnrx&st=a0v4c7e9&dl=0)
-
-<a href="https://dl.dropboxusercontent.com/scl/fi/1j91pxnjnish0j7g9inz5/HowToUsePassworManager.mp4?rlkey=1hk482jdyacf8kfau0x4mfnrx&st=a0v4c7e9&dl=0" target="_blank">Watch the video</a>
-
-<img src="http://i.istockimg.com/file_thumbview_approve/1354938/1/stock-photo-1354938-businesswoman-headache.jpg"/> 
-
-[![Watch the video](https://via.placeholder.com/150)](https://www.dropbox.com/scl/fi/1j91pxnjnish0j7g9inz5/HowToUsePassworManager.mp4?rlkey=1hk482jdyacf8kfau0x4mfnrx&st=a0v4c7e9&dl=0)
-
-[![Watch the video](https://via.placeholder.com/150)](https://dl.dropboxusercontent.com/scl/fi/1j91pxnjnish0j7g9inz5/HowToUsePassworManager.mp4?rlkey=1hk482jdyacf8kfau0x4mfnrx&st=a0v4c7e9&dl=0)
-
 ---
 
 ## 📊 Results:
