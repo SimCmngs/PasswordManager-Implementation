@@ -180,7 +180,7 @@ During the training session, the client was concerned they wouldn't remember how
 
 To produce the Tutorial, I used an `AI Step Recorder` to capture my mouse movements and automate the screen recording and annotation process, demonstrating how to use the Password Manager. The final video was produced using a `Video Editor` , to include AI-voice narration, subtitles and timestamps.
 
-https://github.com/SimCmngs/PasswordManager-Implementation/assets/166608651/32d3e867-2d92-425e-a8d8-5d5abaf0a54e
+https://github.com/SimCmngs/PasswordManager-Implementation/assets/166608651/6bce557b-d351-4856-8047-1574502c86fe
 
 [![Watch the video](https://img.youtube.com/vi/6g3I2nGUg50/0.jpg)](https://dl.dropboxusercontent.com/scl/fi/1j91pxnjnish0j7g9inz5/HowToUsePassworManager.mp4?rlkey=1hk482jdyacf8kfau0x4mfnrx&st=a0v4c7e9&dl=0)
 
