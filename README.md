@@ -146,7 +146,7 @@ After researching and reviewing several options I chose `BitWarden`, a password 
 
 - This allowed for full control of the client's laptop and `Android` smartphone, configuring settings for a more user-friendly experience.
 
-- Because TeamViewer lacked a built-in, voice calling feature, I used Zoom instead to communicate with the client. Providing timely responses to their requests and questions.
+- Because TeamViewer lacked a built-in, voice calling feature, Zoom was used instead to communicate with the client. Providing timely responses to their requests and questions.
 
 `PowerShell` -script
 
