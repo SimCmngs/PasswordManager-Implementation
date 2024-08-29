@@ -24,7 +24,7 @@ They had locked themselves out of their account multiple times, due to <ins>mis-
 
 They were also concerned about the <ins>security risks</ins> of leaving <ins>password hints on note files</ins> across different devices, including their smartphones and laptop.
 
-### 👤 Client Background:
+### 👤 User Background:
 - The client is an elderly person with limited technical experience, running an independent paralegal business.
 - They're looking to integrate digital tools into their existing workflow, with password management being a key concern.
 - Frustrations include remembering multiple passwords and security risks of storing them insecurely.
@@ -34,7 +34,7 @@ They were also concerned about the <ins>security risks</ins> of leaving <ins>pas
 ---
 
 ## ⛔ Problem Statement:
-Challenges the client faced in managing passwords included:
+Challenges the user faced in managing passwords included:
 - ❌ Difficulty in remembering multiple passwords
 - ❌ Time-consuming and error-prone, manual entering of passwords
 - ❌ Security risk of storing password hints on note files, to get leaked/stolen
@@ -55,11 +55,11 @@ After researching and reviewing several options I chose `BitWarden`, a password 
 # 💻 Implementation:
 
 ### 1️⃣ Assessment/Preparation:
-- Simulated the client's desktop environment by creating a virtual machine instance using `VMware`. 
+- Simulated the user's desktop environment by creating a virtual machine instance using `VMware`. 
 
 - Conducted a trial run of installing the Password Manager, to make sure all of its features were functioning before deploying it for the client.
 
-> <ins>**Client's** desktop environment</ins>
+> <ins>**User's** desktop environment</ins>
 
 <details><summary>VM checklist</summary>
 
@@ -144,7 +144,7 @@ After researching and reviewing several options I chose `BitWarden`, a password 
 ### 2️⃣ Installation/Configuration:
 - Performed the installation remotely, using `TeamViewer` and `Zoom`.
 
-- This allowed for full control of the client's laptop and `Android` smartphone, configuring settings for a more user-friendly experience.
+- This allowed for full control of the user's laptop and `Android` smartphone, configuring settings for a more user-friendly experience.
 
 - Because TeamViewer lacked a built-in, voice calling feature, Zoom was used instead to communicate with the client. Providing timely responses to their requests and questions.
 
@@ -184,7 +184,7 @@ Write-Host "Bitwarden installed successfully."
 ---
 
 ### 3️⃣ Training:
-During the training session, the client was concerned they wouldn't remember how to use the Password Manager, so I offered to create a video tutorial to serve as a reference, in case they ever forgot the correct action steps and needed reminding.  
+During the training session, the user was concerned they wouldn't remember how to use the Password Manager, so I offered to create a video tutorial to serve as a reference, in case they ever forgot the correct action steps and needed reminding.  
 
 To produce the Tutorial, I used an `AI Step Recorder` to capture my mouse movements and automate the screen recording and annotation process, demonstrating how to use the Password Manager. The final video was produced using a `Video Editor` , to include AI-voice narration, subtitles and timestamps.
 
@@ -193,19 +193,19 @@ https://github.com/SimCmngs/PasswordManager-Implementation/assets/166608651/6bce
 ---
 
 ## 📊 Results:
-Benefits for the client:
+Benefits for the end-user:
 - 🚀 **Enhanced workflow and ease-of-use**
-    - *(The password manager's autofill feature, will streamline the login process, <ins>saving the client time</ins> and <ins>reducing frustration</ins>)*.
+    - *(The password manager's autofill feature, will streamline the login process, <ins>saving the user time</ins> and <ins>reducing frustration</ins>)*.
     
 - 🔒 **Improved security**
     - *(A centralised and synchronized password vault, will make it <ins>safer to access passwords across different devices</ins>)*.
     
 - 🧠 **Increased self-reliance**
-    - *(A video tutorial, will enable the client to troubleshoot issues on their own, <ins>reducing the reliance on external support</ins> and <ins>minimizing disruptions to their work</ins>)*.
+    - *(A video tutorial, will allow for the user to troubleshoot issues on their own, <ins>reducing the reliance on external support</ins> and <ins>minimizing disruptions to their work</ins>)*.
 
 ---
 
 ## 🎉 Conclusion:
-The client expressed their satisfaction with the Password Manager solution, appreciating its ease of use and positive impact on their daily work.
+The user expressed their satisfaction with the Password Manager solution, appreciating its ease of use and positive impact on their daily work.
 
 ---
